@@ -13,11 +13,15 @@ title: Home
 
 # 👁️ I'm Rick | Futuristic STEM Innovator
 
+
+
 Welcome, traveler of both silicon and soul!
 
 I am **Rick**, a **mechatronics engineer**, who loves building all kinds of systems.
 
 In a world driven by exponential computation and algorithmic determinism, I seek to reintroduce **intent**, **elegance**, and **conscious design** back into the machine. My work is the convergence of logic and logos, code and conscience.
+
+
 
 ---
 
@@ -27,6 +31,8 @@ In a world driven by exponential computation and algorithmic determinism, I seek
 - 🧠 **Philosophize Technological Purpose** — the *why* behind the *how*
 - 📜 **Write and Speak** on AI ethics, techno-humanism, and systems thinking
 - 🧩 **Engineer Frameworks** for both digital infrastructure and intellectual architecture
+
+
 
 ## 🧭 Current Work
 

@@ -90,6 +90,11 @@ body {
   color: #ccc;
 }
 
+main.container p {
+  margin-bottom: 1.5rem; /* or 2rem for more space */
+  line-height: 1.75;     /* Optional: improves readability */
+}
+
 .centered-img {
   display: block;
   margin-left: auto;

@@ -7,7 +7,7 @@ title: Home
 
 Welcome, traveler of both silicon and soul.
 
-I am **Rithvik**, a **Techno-Philosopher**: one who engineers systems not merely to function—but to mean something.
+I am **Rick**, a **Techno-Philosopher**: one who engineers systems not merely to function—but to mean something.
 
 In a world driven by exponential computation and algorithmic determinism, I seek to reintroduce **intent**, **ethics**, and **conscious design** back into the machine. My work is the convergence of logic and logos, code and conscience.
 
@@ -36,9 +36,6 @@ In a world driven by exponential computation and algorithmic determinism, I seek
 ## 🌐 Connect With Me
 
 - [GitHub](https://github.com/rickyG242)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](www.linkedin.com/in/rithvik-suren-stem-innovator)
 
 ---
-
-> 🧠 *Think like Stark. Reflect like Doom. Design like Da Vinci. That’s the discipline of a Techno-Philosopher.*
-

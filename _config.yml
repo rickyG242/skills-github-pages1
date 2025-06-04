@@ -1,1 +1,5 @@
-theme: minima
+title: Techno-Philosopher
+description: "A digital architect exploring the boundaries of mind, machine, and meaning."
+theme: null
+markdown: kramdown
+permalink: pretty

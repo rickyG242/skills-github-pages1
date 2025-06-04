@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="overlay-container">
-  <img src="{{ '/assets/images/philosophy.jpg' | assets/images/profile.jpg }}" alt="Deep Thought">
+  <img src="{{ 'assets/images/profile.jpg' }}" alt="Deep Thought">
   <div class="overlay-text">
     <h2>I engineer meaning<br><span class="subtitle">Techno-Philosopher</span></h2>
   </div>

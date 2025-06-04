@@ -6,18 +6,18 @@ title: Home
 <div class="overlay-container">
   <img src="{{ 'assets/images/profile.jpg' }}" alt="Deep Thought">
   <div class="overlay-text">
-    <h2>I engineer meaning<br><span class="subtitle">Techno-Philosopher</span></h2>
+    <h2>I engineer meaning<br><span class="subtitle">Rithvik Suren</span></h2>
   </div>
 </div>
 
 
-# 👁️ I'm Rick | Systems Architect of Human Futures
+# 👁️ I'm Rick | Futuristic STEM Innovator
 
-Welcome, traveler of both silicon and soul.
+Welcome, traveler of both silicon and soul!
 
-I am **Rick**, a **Techno-Philosopher**: one who engineers systems not merely to function—but to mean something.
+I am **Rick**, a **mechatronics engineer**, who loves building all kinds of systems.
 
-In a world driven by exponential computation and algorithmic determinism, I seek to reintroduce **intent**, **ethics**, and **conscious design** back into the machine. My work is the convergence of logic and logos, code and conscience.
+In a world driven by exponential computation and algorithmic determinism, I seek to reintroduce **intent**, **elegance**, and **conscious design** back into the machine. My work is the convergence of logic and logos, code and conscience.
 
 ---
 

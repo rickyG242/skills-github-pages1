@@ -2,7 +2,14 @@
 layout: default
 title: Home
 ---
-![Alt Text for SEO](assets/images/profile.jpg){: .centered-img }
+
+<div class="overlay-container">
+  <img src="{{ '/assets/images/philosophy.jpg' | assets/images/profile.jpg }}" alt="Deep Thought">
+  <div class="overlay-text">
+    <h2>I engineer meaning<br><span class="subtitle">Techno-Philosopher</span></h2>
+  </div>
+</div>
+
 
 # 👁️ I'm Rick | Systems Architect of Human Futures
 

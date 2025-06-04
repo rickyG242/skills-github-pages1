@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-![Alt Text for SEO](assets/images/profile.jpg)
+![Alt Text for SEO](assets/images/profile.jpg){: .centered-img }
 
 # 👁️ I'm Rick | Systems Architect of Human Futures
 

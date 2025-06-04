@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👁️ Techno-Philosopher | Systems Architect of Human Futures
+# 👁️ I'm Rick | Systems Architect of Human Futures
 
 Welcome, traveler of both silicon and soul.
 
